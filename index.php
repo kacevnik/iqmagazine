@@ -12,11 +12,13 @@
     <link rel="stylesheet" href="css/main.css" type="text/css" />
     <link rel="stylesheet" href="css/timer.css" type="text/css" />
     <link rel="stylesheet" href="css/slick.css" type="text/css" />
+    <link rel="stylesheet" href="yved/style.css" type="text/css" />
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/count.js"></script>
+    <script src="yved/script.js"></script>
     <script type="text/javascript">
     $(function(){
             $("a[href^='#']").click(function(){
@@ -30,6 +32,7 @@
     <body>
         <div class="b1">
         <div class="section" style="overflow: visible;">
+        <div class="pac_1"></div>
             <div class="zag">
                 <span style="position: absolute;right: 0;text-align:right;font-size: 24px;color: #fff;background: rgba(0,0,0,.2);border-radius:10px 10px 10px 84px;padding: 10px;top: -20px;"><?php include("admin/params/phone.txt"); ?><br><span style="font-size: 16px;line-height:18px;"><?php include("admin/params/days.txt"); ?></span></span>
                 <h1 class="reg">НАБОР МАТОВОЙ ЖИДКОЙ ПОМАДЫ</h1>
@@ -46,7 +49,7 @@
         </div>
     </div><!-- endzeit_____ -->
     <div class="b2">
-        <div class="section">
+        <div class="section" style="overflow: inherit;">
             <h2 class="h2 ser reg">РАСКРОЙ СЕКРЕТ
                 <span class="pink bold">СОБЛАЗНИТЕЛЬНЫХ ГУБ!</span>
             </h2>  
@@ -156,6 +159,7 @@
                     <p class="upp reg">скидка</p>
                     <h3 class="bold">54%</span></h3>
                 </div>
+                <div class="pac_2"></div>
             </div>
             <div class="right">
                 <p class="white deadline center medium">До конца акции осталось:</p>
@@ -188,5 +192,92 @@
         </div>
     </div> 
 <?php include("admin/params/scripts.txt"); ?>
+<div class="yvedw">
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Кирилл Лаврентьев, г.Москва, сделал заказ на сумму 1850р, число 1 шт</div></div>
+	</div>	
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Прохор Матвеев, г.Липецк, сделал заказ на сумму 1850р, число 1 шт </div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Вениамин Артёмов, г.Екатеринбург, сделал заказ на сумму 3700р, число 2 шт </div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Эмиль Измайлов, г.Климовск, сделал заказ на сумму 3700р, число 2 шт</div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Ефрем Беляков, г.Салехард, сделал заказ на сумму 1850р, число 1 шт </div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Люция Горбунова, г.Уссурийск, сделала заказ на сумму 3700р, число 2 шт</div></div>
+	</div>
+	<div class="yved yvedf2">
+		<img src="yved/yico2.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Дмитрий Маслов, г.Киров, оставил заявку на обратный звонок</div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Алексей Комаров, г.Москва, сделал заказ на сумму 1850р, число 1 шт</div></div>
+	</div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Виктор Бодров, г.Санкт-Петербург, сделал заказ на сумму 3700р, число 2 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Дмитрий Веселяк, г.Рязань, сделал заказ на сумму 3700р, число 1 шт </div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Андрей Фирсов, г. Стерлитамак, сделал заказ на сумму 3700р, число 2 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Александр Баляков, г.Белгород, сделал заказ на сумму 3700р, число 1 шт </div></div>
+        </div>
+	<div class="yved yvedf2">
+		<img src="yved/yico2.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Ольга Скибина, г.Калининград, оставила заявку на обратный звонок</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Павел Трунин, г.Краснодар, сделал заказ на сумму 3700р, число 2 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Дмитрий Колесников, г.Мурманск, сделал заказ на сумму 3700р, число 2 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Виктор Файназулин, г.Москва, сделал заказ на сумму 1850р, число 1 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Алексей Иванов, г.Санкт-Петербург, сделал заказ на сумму 1850р, число 1 шт</div></div>
+        </div>
+	<div class="yved yvedf2">
+		<img src="yved/yico2.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Наталья Лаговец, г.Нижний Новгород, оставила заявку на обратный звонок</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Юрий Деркачев, г.Воронеж, сделал заказ на сумму 3700р, число 2 шт</div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Александр Петров, г.Владивосток, сделал заказ на сумму 3700р, число 1 шт </div></div>
+        </div>
+	<div class="yved yvedf1">
+		<img src="yved/yico.png" alt="" class="yvedi">
+		<div class="yvedvt"><div class="yvedt">Татьяна Филатова, г.Пенза, сделала заказ на сумму 3700р, число 2 шт</div></div>
+	</div>
+  </div>  
+
 </body>
 </html>
