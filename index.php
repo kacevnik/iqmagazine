@@ -195,15 +195,15 @@
 <div class="yvedw">
 	<div class="yved yvedf1">
 		<img src="yved/yico.png" alt="" class="yvedi">
-		<div class="yvedvt"><div class="yvedt">Кирилл Лаврентьев, г.Москва, сделал заказ на сумму 1850р, число 1 шт</div></div>
+		<div class="yvedvt"><div class="yvedt">Ирина Мишина, г.Москва, сделала заказ на сумму 1970р, число 1 шт</div></div>
 	</div>	
 	<div class="yved yvedf1">
 		<img src="yved/yico.png" alt="" class="yvedi">
-		<div class="yvedvt"><div class="yvedt">Прохор Матвеев, г.Липецк, сделал заказ на сумму 1850р, число 1 шт </div></div>
+		<div class="yvedvt"><div class="yvedt">Марина Измайлова, г.Владимир, сделала заказ на сумму 1970р, число 1 шт </div></div>
 	</div>
 	<div class="yved yvedf1">
 		<img src="yved/yico.png" alt="" class="yvedi">
-		<div class="yvedvt"><div class="yvedt">Вениамин Артёмов, г.Екатеринбург, сделал заказ на сумму 3700р, число 2 шт </div></div>
+		<div class="yvedvt"><div class="yvedt">Вера Артёмов, г.Екатеринбург, сделал заказ на сумму 3700р, число 2 шт </div></div>
 	</div>
 	<div class="yved yvedf1">
 		<img src="yved/yico.png" alt="" class="yvedi">

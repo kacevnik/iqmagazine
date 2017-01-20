@@ -846,15 +846,14 @@ form button {
     z-index: 0;
 }
 .pac_1:before {
-    content: "Подарок";
+    content: " ";
     position: absolute;
-    top: -35px;
-    left: 51px;
+    top: -49px;
+    left: 77px;
     margin: 0 auto;
-    border: 1px solid #ccc;
-    padding: 4px 7px;
-    border-radius: 4px;
-    background: rgb(222, 219, 215);
+    background: url(../img/gift.png);
+    height: 80px;
+    width: 70px;
 }
 
 .pac_2{
@@ -863,14 +862,12 @@ form button {
 }
 
 .pac_2:after{
-    content: "Подарок";
+    content: " ";
     position: absolute;
-    top: 165px;
-    left: 51px;
+    top: 119px;
+    left: 93px;
     margin: 0 auto;
-    border: 1px solid #ccc;
-    padding: 4px 7px;
-    border-radius: 4px;
-    background: rgba(222, 219, 215,.6);
-
+    background: url(../img/gift.png);
+    height: 80px;
+    width: 70px;
 }
